@@ -1,9 +1,5 @@
-
 streamlit
 numpy
 matplotlib
-random
 pandas
-heapq
 networkx
-time
